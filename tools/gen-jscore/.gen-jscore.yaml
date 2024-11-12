@@ -780,6 +780,8 @@ log:
       function: -1
     - name: assert
       function: -1
+    - name: clear
+      function: -1
 
 values:
   - name: int
