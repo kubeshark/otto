@@ -44,3 +44,7 @@ func builtinConsoleTrace(call FunctionCall) Value {
 func builtinConsoleAssert(call FunctionCall) Value {
 	return Value{}
 }
+
+func builtinConsoleClear(call FunctionCall) Value {
+	return Value{}
+}
